@@ -15,3 +15,6 @@ The CPU limiter still needs improvement. Currently, it freezes all Sonoyuncu Cli
 When you run the file, all clients freeze and eventually disconnect from the server.
 
 For example, if the server is under maintenance and you want to play another game (such as League of Legends) while running 50 clients, the CPU limiter may improve performance — but it may also cause disconnections.
+Discord :
+oxygenqqw
+987018545185570857
